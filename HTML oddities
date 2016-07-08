@@ -1,3 +1,5 @@
-<DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html>
-<title> Thingy </title>
+<title> Used for titles </title>
+<body> <!--self explanitory-->
+<h1> Different headers with differing sizes </h1> <!--introduction to paragraphs-->
