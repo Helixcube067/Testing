@@ -1,5 +1,18 @@
 <!DOCTYPE HTML>
 <html>
 <title> Used for titles </title>
-<body> <!--self explanitory-->
+<body style> <!--self explanitory-->
 <h1> Different headers with differing sizes </h1> <!--introduction to paragraphs-->
+  <p style="font-size: 10x"> Le actually paragraphs </p> <!--also comes in 20x and 40x-->
+<ul>
+  <li> unordered list 
+  <li> connecting it to others
+  </li>
+</ul>
+<ul>
+  <ol>
+    <li> ordered list
+    <li> list connections
+    </li>
+  </ol>
+<ul>
