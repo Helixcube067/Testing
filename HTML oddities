@@ -1,12 +1,12 @@
 <!DOCTYPE HTML>
 <html>
 <title> Used for titles </title>
-<body style> <!--self explanitory-->
+<body style="color: yellow; background-color:> <!--self explanitory-->
 <h1> Different headers with differing sizes </h1> <!--introduction to paragraphs-->
   <p style="font-size: 10x"> Le actually paragraphs </p> <!--also comes in 20x and 40x-->
 <ul>
-  <li> unordered list 
-  <li> connecting it to others
+  <li> unordered list </li> 
+  <li> connecting it to others </li>
   </li>
 </ul>
 <ul>
@@ -15,4 +15,4 @@
     <li> list connections
     </li>
   </ol>
-<ul>
+</ul>
