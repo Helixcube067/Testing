@@ -2,6 +2,9 @@
 <html>
 <title> Used for titles </title>
 <body style="color: yellow; background-color:> <!--self explanitory-->
+<a href="link"> <--linkable pictures-->
+  <img src="picutre"> <!--insert a picture-->
+    </a> <!--stops the picture link from connecting to other texts-->
 <h1> Different headers with differing sizes </h1> <!--introduction to paragraphs-->
   <p style="font-size: 10x"> Le actually paragraphs </p> <!--also comes in 20x and 40x-->
 <ul>
