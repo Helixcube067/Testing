@@ -16,3 +16,21 @@
     </li>
   </ol>
 </ul>
+<ul> <!--Study this later for connected unlisted lists or somethin in other lists....or somethin-->
+        <li>
+    Interests
+    <ul>
+    <li> Q </li>
+    <li> W </li>
+    <li> E </li>
+    <li> R </li>
+    </ol>
+  </li>
+  <li>
+    Qualities
+    <ul>
+    <li> only the best </li>
+    <li> Nothing less </li>
+    <li> <em> Godly </em> </li>
+  </li>
+</ul>
