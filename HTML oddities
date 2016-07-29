@@ -37,3 +37,19 @@
     <li> <em> Godly </em> </li>
   </li>
 </ul>
+<table>
+<tbody> <!--Table openings-->
+<thead border="1px"> <!--Border-->
+<thead>
+  <tr>
+    <th>
+  
+  
+  <tr> <!--table rows-->
+    <td> <!--table cells--> </td>
+  </tr> 
+  <tr> <!--to make another row-->
+    <td> Azir release date </td>
+    <td> 9/16/14 </td> <!--combined makes a double cell two column type-->
+  </tr>  
+</table>  
