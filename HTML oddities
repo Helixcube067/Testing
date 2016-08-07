@@ -42,7 +42,9 @@
 <thead border="1px"> <!--Border-->
 <thead>
   <tr>
-    <th>
+    <th> Row titles </tr>
+      <th> Other column title </tr>
+        <th colspan="3"> to make a top bar  
   
   
   <tr> <!--table rows-->
